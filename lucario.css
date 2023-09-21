@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkblue;
+
+}
+
+.topnav {
+    text-align: center;
+    align-content: space-between;
+}
+
+nav {
+    color: darkgoldenrod;
+}
+
+section {
+    display: flex;
+    margin: 20px;
+
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+
+p {
+    font-size: 1em;
+    color: darkgoldenrod;
+
+}
